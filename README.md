@@ -1,5 +1,4 @@
-link do projeto:github.com/anjo776/projeto-do-filme-da-
-link para o projeto
+link do projeto:[github.com/anjo776/projeto-do-filme-da-](https://github.com/anjo776/projeto-do-filme-da-omdb.git)
 
  # projeto-do-filme-da-omdb
  consumindo-api-de-filmes-da-omdb
